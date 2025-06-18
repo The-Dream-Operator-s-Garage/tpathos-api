@@ -1,0 +1,7 @@
+node_modules
+files
+helpers/config.js
+build
+npm-debug.log
+.env
+.DS_Store
